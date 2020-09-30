@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi... 
+## I'm now working in nothing :ocean:... 
 <!--
 **Krasn4ck/Krasn4ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
