@@ -8,7 +8,7 @@ I'm Carlos Daniel and I'm Computer Systems Engineer, you can find my contributio
 
 <div>
     <div align = "center">
-        <a href = #><img src = "https://github-readme-stats.vercel.app/api?username=Krasn4ck&show_icons=true&theme=dark" height=200 /></a>
-        <a href = #><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krasn4ck&layout=compact&theme=dark" height=200 /></a>
+        <a href = #><img src = "https://github-readme-stats.vercel.app/api?username=Krasn4ck&show_icons=true&theme=dark" height="200" /></a>
+        <a href = #><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Krasn4ck&layout=compact&theme=dark" height="200" /></a>
     </div>
 </div>
